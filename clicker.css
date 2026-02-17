@@ -1,0 +1,41 @@
+html, body {
+  height: 100%;
+  margin: 0; /* Remove default body margin */
+}
+
+.grid-container {
+  display: grid;
+  height: 100vh;
+  /* ... other grid properties ... */
+}
+
+.upper
+{
+    height: 35%;
+}
+
+.lower
+{
+    height: 65%;
+}
+
+.uleft
+{
+    width: 60%;
+}
+
+.uright
+{
+    width: 40%;
+    overflow-y: scroll;
+}
+
+.lleft
+{
+    width: 60%;
+}
+
+.lright
+{
+    width: 40%;
+}

@@ -1,0 +1,47 @@
+p
+{
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+}
+
+.subatomic
+{
+    /*width: 174px;*/
+    width: 176px;
+    height: 118px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0; 
+}
+
+.saLabel
+{
+    width: 60px;
+    padding: 0px;
+    border: 0px;
+    display: inline-block;
+    text-align: right;
+    white-space: nowrap;
+}
+
+.saValue
+{
+    width: 60px;
+    padding: 1px;
+    border: 1px solid grey;
+    margin: 1px; 
+    display: inline-block;
+    white-space: nowrap;
+}
+
+.saSmLabel
+{
+    width: 17px;
+    padding: 1px;
+    border: 0px;
+    margin: 1px; 
+    display: inline-block;
+    white-space: nowrap;
+
+}
