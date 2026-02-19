@@ -17,7 +17,7 @@ function GameLoop()
 
 function runthegame()
 {
-    
+    gData.tutLevel = 1;
 }
 
 function updatethescreen()
